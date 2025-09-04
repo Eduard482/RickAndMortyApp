@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rick &amp; Morty</string>
+    <string name="google_maps_key">REEMPLAZA_CON_TU_API_KEY</string>
+    <string name="biometric_title">Autenticación requerida</string>
+    <string name="biometric_subtitle">Usa tu huella o rostro para acceder a Favoritos</string>
+    <string name="biometric_negative">Cancelar</string>
+</resources>
